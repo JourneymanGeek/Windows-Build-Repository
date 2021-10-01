@@ -1,0 +1,48 @@
+
+This is a general list of what I install - They're seperated by sets of applications on different builds but most will get at least the base and util package sets
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Base
+
+choco install paint.net powertoys eartrumpet mobaxterm microsoft-windows-terminal sumatrapdf sublimetext4 vivaldi.install sourcecodepro 7zip
+
+Util
+choco install choco-package-list-backup choco-cleaner
+
+media
+choco install mp3tag mpc-be foobar2000
+
+Chat
+Choco install ripcord element-desktop
+
+Peripherals
+
+choco install geforce-experience razer-synapse-3
+
+Gaming
+choco install epicgameslauncher steam uplay goggalaxy bethesdanet 
+
+Optional
+choco install veeam-agent  cyberduck 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+The base install *does* have some personal preferences 
+
+ paint.net - My 'preferred' image editor, and the only one I'm any good at
+ powertoys - mainly for the 'image resize' powertoy
+ eartrumpet - a 'better' audio mixer, lets you move audio sources between outputs, which is awesome if you have multiple sound outputs
+ mobaxterm - a better SSH client on windows - though I might move to windows terminal and the built in SSH client on windows 10 + 
+ microsoft-windows-terminal - a better terminal on windows. Might become standard on 11
+ sumatrapdf - my favoured PDF and ebook reader
+ sublimetext4 - my favoured text editor
+ vivaldi.install - my preferred browser. The choco repo has an older version and there's a broken repo that's supposed to have the 4x branch, but I just let it update
+ sourcecodepro - preferred monospace font
+ 7zip - tends to handle nearly all compression formats so its useful to have 
+ 
+ Util
+ choco-package-list-backup Backs up the package list if reinstall is needed 
+ choco-cleaner cleaning download caches is a premium feature on choco... this does this 
+ 
