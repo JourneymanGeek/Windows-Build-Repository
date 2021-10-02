@@ -46,3 +46,27 @@ The base install *does* have some personal preferences
  choco-package-list-backup Backs up the package list if reinstall is needed 
  choco-cleaner cleaning download caches is a premium feature on choco... this does this 
  
+media
+mp3tag - My preferred mp3 management tool - I use this to have a fairly consistant folder/tagging system for my music 
+mpc-be - I was running MPC-HC for years, and this seems the supported replacement. Its just a little nicer and more flexible than the stock apps. In theory VLC also works
+foobar2000 - Music player of choice 
+ 
+Chat
+ripcord - reasonably nice (though odd to set up due to no fault of its own) slack/discord client. Shareware
+element-desktop - I use matrix for quite a few things - this is the reference client
+
+Peripherals - not even sure why this is here :D. VERY specific to what one uses, I happen to run nvidia cards and often razer hardware. There's seperate choco packages for synapse 2 and 3
+
+geforce-experience - geforce/nvidia drives
+razer-synapse-3 - Razer Drivers
+
+Optional
+veeam-agent - while my current builds are increasingly 'disposable', Its a nice. trustworthy backup method. I don't have them on current builds
+cyberduck - My SFTP client of choice, where needed. 
+
+Gaming - Various gaming clients. 
+epicgameslauncher 
+steam 
+uplay 
+goggalaxy 
+bethesdanet 
