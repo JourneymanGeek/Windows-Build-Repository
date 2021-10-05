@@ -1,6 +1,6 @@
 I'm considering moving to winget in future for new builds. its native, and dosen't need some of the helper utilities. 
 
-Couple of notes - when searching for packages with more than one word - use quotation marks Winget Search "foo"
+Couple of notes - when searching for packages with more than one word - use quotation marks Winget Search "foo" - this tends to be slow, so https://winget.run is a better option for finding packages
 
 Winget will get confused if there's more than one package with the same name - so install by ID where possible. 
 
