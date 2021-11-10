@@ -7,3 +7,5 @@ I've done some initial discovery on winget - there's a few blockers, especially 
 
 I also use an [IODD](http://iodd.kr/wordpress/) external HDD - so most of my installs are done via ISOs https://github.com/AveYo/MediaCreationTool.bat 
 seems a very nice tool to get them. 
+
+https://github.com/builtbybel/ThisIsWin11 seems to be a nice tool for debloating a new windows 11 install 
