@@ -4,6 +4,10 @@ Couple of notes - when searching for packages with more than one word - use quot
 
 Winget will get confused if there's more than one package with the same name - so install by ID where possible. 
 
+If slow, refer to https://github.com/microsoft/winget-cli/issues/1860
+
+winget also has an option to export and import - including 'updating' packages from other sources where possible to the list - so this format may become obsolete
+
 
 paint.net - not supported
 mobaxterm  - not supported
