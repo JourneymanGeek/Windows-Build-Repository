@@ -9,7 +9,7 @@ If slow, refer to https://github.com/microsoft/winget-cli/issues/1860
 winget also has an option to export and import - including 'updating' packages from other sources where possible to the list - so this format may become obsolete
 
 
-paint.net - not supported
+paint.net - winget install --id dotPDN.PaintDotNet
 mobaxterm  - not supported
 sourcecodepro - Not supported
 
@@ -28,7 +28,7 @@ sourcecodepro - Not supported
  
 media
 mp3tag - winget install --id mp3tag.mp3tag
-
+vlc - winget install -id VideoLAN.VLC
 mpc-be - winget install --id 9PD88QB3BGKN (windows store, needs MS account)
 foobar2000 - winget install --id PeterPawlowski.foobar2000
 
