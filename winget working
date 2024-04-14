@@ -15,8 +15,6 @@ sourcecodepro - Not supported
 
  eartrumpet - winget install --id  File-New-Project.EarTrumpet
  
- microsoft-windows-terminal - winget install --id Microsoft.WindowsTerminal
-
  sumatrapdf - winget install --id SumatraPDF.SumatraPDF
 
  sublimetext4 -  winget install --id  SublimeHQ.SublimeText.4
