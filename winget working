@@ -15,7 +15,7 @@ sourcecodepro - Not supported
 
  eartrumpet - winget install --id  File-New-Project.EarTrumpet
  
- sumatrapdf - winget install --id SumatraPDF.SumatraPDF
+ sumatrapdf - winget install --id SumatraPDF.SumatraPDF -v 3.4.6 (installs the last version with configurable ebook UI) 
 
  sublimetext4 -  winget install --id  SublimeHQ.SublimeText.4
 
