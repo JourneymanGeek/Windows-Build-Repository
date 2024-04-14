@@ -27,11 +27,9 @@ sourcecodepro - Not supported
 media
 mp3tag - winget install --id mp3tag.mp3tag
 vlc - winget install -id VideoLAN.VLC
-mpc-be - winget install --id 9PD88QB3BGKN (windows store, needs MS account)
 foobar2000 - winget install --id PeterPawlowski.foobar2000
 
 Chat
-ripcord - not supported
 element-desktop - winget install --id element.element
 
 Peripherals - 
@@ -39,7 +37,6 @@ geforce-experience - winget install --id  Nvidia.GeForceExperience
 razer-synapse-3 - not supported
 
 Optional
-veeam-agent - Not Supported
 cyberduck -  winget install --id Iterate.Cyberduck
 
 Gaming - Various gaming clients. 
