@@ -19,7 +19,7 @@ sourcecodepro - Not supported
 
  sublimetext4 -  winget install --id  SublimeHQ.SublimeText.4
 
- vivaldi.install winget install --id VivaldiTechnologies.Vivaldi
+ vivaldi.install winget install --id Vivaldi.Vivaldi
 
  7zip winget install --id 7zip.7zip
  
