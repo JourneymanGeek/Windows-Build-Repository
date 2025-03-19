@@ -16,7 +16,7 @@ sourcecodepro - Not supported
  eartrumpet - winget install --id  File-New-Project.EarTrumpet
  
  sumatrapdf - winget install --id SumatraPDF.SumatraPDF -v 3.4.6 (installs the last version with configurable ebook UI) 
-
+winget pin add SumatraPDF.SumatraPDF 
  sublimetext4 -  winget install --id  SublimeHQ.SublimeText.4
 
  vivaldi.install winget install --id Vivaldi.Vivaldi
@@ -26,7 +26,7 @@ sourcecodepro - Not supported
  
 media
 mp3tag - winget install --id mp3tag.mp3tag
-vlc - winget install -id VideoLAN.VLC
+vlc - winget install --id VideoLAN.VLC
 foobar2000 - winget install --id PeterPawlowski.foobar2000
 
 Chat
